@@ -1,0 +1,17 @@
+﻿  sample.cpp
+C:\Users\satoru\Desktop\cs450\project3\sample.cpp(1211,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\satoru\Desktop\cs450\project3\sample.cpp(1218,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\satoru\Desktop\cs450\project3\sample.cpp(1232,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\satoru\Desktop\cs450\project3\sample.cpp(1233,73): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\satoru\Desktop\cs450\project3\sample.cpp(1237,73): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\satoru\Desktop\cs450\project3\sample.cpp(1238,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\satoru\Desktop\cs450\project3\sample.cpp(1241,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\satoru\Desktop\cs450\project3\sample.cpp(1242,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\satoru\Desktop\cs450\project3\sample.cpp(1245,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\satoru\Desktop\cs450\project3\sample.cpp(1246,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\satoru\Desktop\cs450\project3\sample.cpp(1267,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\satoru\Desktop\cs450\project3\sample.cpp(1268,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\satoru\Desktop\cs450\project3\sample.cpp(1280,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\satoru\Desktop\cs450\project3\sample.cpp(1281,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> C:\Users\satoru\Desktop\cs450\project3\Debug\Sample.exe
