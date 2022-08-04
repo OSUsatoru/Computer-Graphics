@@ -1,6 +1,6 @@
 # Draw Something
 
-![](../Gifs/project%20(1).gif)
+![](../Gifs/project(1).gif)
 
 ## Instruction
 * Draw something fun in 3D
