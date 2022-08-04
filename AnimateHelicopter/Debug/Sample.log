@@ -1,3 +1,9 @@
 ﻿  sample.cpp
+C:\cs450\Computer-Graphics\AnimateHelicopter\sample.cpp(429,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\cs450\Computer-Graphics\AnimateHelicopter\sample.cpp(807,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\cs450\Computer-Graphics\AnimateHelicopter\sample.cpp(809,44): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\cs450\Computer-Graphics\AnimateHelicopter\sample.cpp(811,45): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\cs450\Computer-Graphics\AnimateHelicopter\sample.cpp(813,44): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\cs450\Computer-Graphics\AnimateHelicopter\sample.cpp(862,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
 sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
-  Sample.vcxproj -> C:\MJB\CS550\SampleFreeGlut2019\Debug\Sample.exe
+  Sample.vcxproj -> C:\cs450\Computer-Graphics\AnimateHelicopter\Debug\Sample.exe

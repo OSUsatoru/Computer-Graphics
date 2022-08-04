@@ -1,17 +1,17 @@
 ﻿  sample.cpp
-C:\Users\satoru\Desktop\cs450\project6\sample.cpp(451,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\satoru\Desktop\cs450\project6\sample.cpp(452,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\satoru\Desktop\cs450\project6\sample.cpp(453,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\satoru\Desktop\cs450\project6\sample.cpp(454,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\satoru\Desktop\cs450\project6\sample.cpp(831,36): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\satoru\Desktop\cs450\project6\sample.cpp(1574,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\satoru\Desktop\cs450\project6\sample.cpp(1580,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\satoru\Desktop\cs450\project6\sample.cpp(1581,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\satoru\Desktop\cs450\project6\sample.cpp(1591,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\satoru\Desktop\cs450\project6\sample.cpp(1596,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\satoru\Desktop\cs450\project6\sample.cpp(1598,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\satoru\Desktop\cs450\project6\sample.cpp(1608,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\satoru\Desktop\cs450\project6\sample.cpp(1613,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\satoru\Desktop\cs450\project6\sample.cpp(1614,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\cs450\Computer-Graphics\GeometricModeling\sample.cpp(451,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\cs450\Computer-Graphics\GeometricModeling\sample.cpp(452,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\cs450\Computer-Graphics\GeometricModeling\sample.cpp(453,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\cs450\Computer-Graphics\GeometricModeling\sample.cpp(454,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\cs450\Computer-Graphics\GeometricModeling\sample.cpp(831,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\cs450\Computer-Graphics\GeometricModeling\sample.cpp(1574,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\cs450\Computer-Graphics\GeometricModeling\sample.cpp(1580,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\cs450\Computer-Graphics\GeometricModeling\sample.cpp(1581,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\cs450\Computer-Graphics\GeometricModeling\sample.cpp(1591,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\cs450\Computer-Graphics\GeometricModeling\sample.cpp(1596,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\cs450\Computer-Graphics\GeometricModeling\sample.cpp(1598,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\cs450\Computer-Graphics\GeometricModeling\sample.cpp(1608,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\cs450\Computer-Graphics\GeometricModeling\sample.cpp(1613,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\cs450\Computer-Graphics\GeometricModeling\sample.cpp(1614,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
 sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
-  Sample.vcxproj -> C:\Users\satoru\Desktop\cs450\project6\Debug\Sample.exe
+  Sample.vcxproj -> C:\cs450\Computer-Graphics\GeometricModeling\Debug\Sample.exe

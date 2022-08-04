@@ -1,6 +1,6 @@
 ﻿  sample.cpp
-C:\Users\satoru\Desktop\SampleFreeGlut2019\sample.cpp(745,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\satoru\Desktop\SampleFreeGlut2019\sample.cpp(754,18): warning C4305: '+=': truncation from 'double' to 'float'
-C:\Users\satoru\Desktop\SampleFreeGlut2019\sample.cpp(759,54): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\cs450\Computer-Graphics\DrawSomething\sample.cpp(745,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\cs450\Computer-Graphics\DrawSomething\sample.cpp(754,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\cs450\Computer-Graphics\DrawSomething\sample.cpp(759,54): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
 sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
-  Sample.vcxproj -> C:\Users\satoru\Desktop\SampleFreeGlut2019\Debug\Sample.exe
+  Sample.vcxproj -> C:\cs450\Computer-Graphics\DrawSomething\Debug\Sample.exe

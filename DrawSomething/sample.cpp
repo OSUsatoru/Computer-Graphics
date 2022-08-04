@@ -33,11 +33,11 @@
 //		6. The transformations to be reset
 //		7. The program to quit
 //
-//	Author:			Joe Graphics
+//	
 
 // title of these windows:
 
-const char *WINDOWTITLE = { "OpenGL / GLUT Sample -- Joe Graphics" };
+const char *WINDOWTITLE = { "OpenGL / GLUT Draw Something -- Satoru Yamamoto" };
 const char *GLUITITLE   = { "User Interface Window" };
 
 // what the glui package defines as true and false:
@@ -402,7 +402,7 @@ Display( )
 	glDisable( GL_DEPTH_TEST );
 	glColor3f( 0., 1., 1. );
 	//DoRasterString( 0., 1., 0., (char *)"Text That Moves" );
-	DoRasterString(0., 1., 0., (char*)"Student Name: Satoru Yamamoto");
+	DoRasterString(0., 1., 0., (char*)"Satoru Yamamoto");
 	
 	// draw some gratuitous text that is fixed on the screen:
 	//
@@ -422,7 +422,7 @@ Display( )
 	glLoadIdentity( );
 	glColor3f( 1., 1., 1. );
 	//DoRasterString( 5., 5., 0., (char *)"Text That Doesn't" );
-	DoRasterString(5., 5., 0., (char*)"CS450 Project1");
+	DoRasterString(5., 5., 0., (char*)"Draw Something");
 	// swap the double-buffered framebuffers:
 
 	glutSwapBuffers( );
