@@ -1,22 +1,22 @@
 ﻿  sample.cpp
-C:\Users\satoru\Desktop\cs450\finalproject\sample.cpp(197,1): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\satoru\Desktop\cs450\finalproject\sample.cpp(410,67): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\satoru\Desktop\cs450\finalproject\sample.cpp(486,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\satoru\Desktop\cs450\finalproject\sample.cpp(487,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\satoru\Desktop\cs450\finalproject\sample.cpp(1026,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\satoru\Desktop\cs450\finalproject\sample.cpp(1854,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\satoru\Desktop\cs450\finalproject\sample.cpp(1861,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\satoru\Desktop\cs450\finalproject\sample.cpp(1872,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\satoru\Desktop\cs450\finalproject\sample.cpp(1873,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\satoru\Desktop\cs450\finalproject\sample.cpp(1893,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\satoru\Desktop\cs450\finalproject\sample.cpp(1894,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\satoru\Desktop\cs450\finalproject\sample.cpp(1906,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\satoru\Desktop\cs450\finalproject\sample.cpp(1907,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\satoru\Desktop\cs450\finalproject\sample.cpp(1985,20): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\satoru\Desktop\cs450\finalproject\sample.cpp(1986,20): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\satoru\Desktop\cs450\finalproject\sample.cpp(1995,21): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\satoru\Desktop\cs450\finalproject\sample.cpp(1996,21): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\satoru\Desktop\cs450\finalproject\sample.cpp(2007,19): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\satoru\Desktop\cs450\finalproject\sample.cpp(2008,19): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\cs450\Computer-Graphics\SolarSystem\sample.cpp(197,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\cs450\Computer-Graphics\SolarSystem\sample.cpp(410,67): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\cs450\Computer-Graphics\SolarSystem\sample.cpp(486,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\cs450\Computer-Graphics\SolarSystem\sample.cpp(487,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\cs450\Computer-Graphics\SolarSystem\sample.cpp(1026,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\cs450\Computer-Graphics\SolarSystem\sample.cpp(1854,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\cs450\Computer-Graphics\SolarSystem\sample.cpp(1861,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\cs450\Computer-Graphics\SolarSystem\sample.cpp(1872,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\cs450\Computer-Graphics\SolarSystem\sample.cpp(1873,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\cs450\Computer-Graphics\SolarSystem\sample.cpp(1893,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\cs450\Computer-Graphics\SolarSystem\sample.cpp(1894,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\cs450\Computer-Graphics\SolarSystem\sample.cpp(1906,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\cs450\Computer-Graphics\SolarSystem\sample.cpp(1907,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\cs450\Computer-Graphics\SolarSystem\sample.cpp(1985,20): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\cs450\Computer-Graphics\SolarSystem\sample.cpp(1986,20): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\cs450\Computer-Graphics\SolarSystem\sample.cpp(1995,21): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\cs450\Computer-Graphics\SolarSystem\sample.cpp(1996,21): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\cs450\Computer-Graphics\SolarSystem\sample.cpp(2007,19): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\cs450\Computer-Graphics\SolarSystem\sample.cpp(2008,19): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
 sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
-  Sample.vcxproj -> C:\Users\satoru\Desktop\cs450\finalproject\Debug\Sample.exe
+  Sample.vcxproj -> C:\cs450\Computer-Graphics\SolarSystem\Debug\Sample.exe

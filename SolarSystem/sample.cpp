@@ -32,11 +32,11 @@
 //		6. The transformations to be reset
 //		7. The program to quit
 //
-//	Author:			Joe Graphics
+//
 
 // title of these windows:
 
-const char *WINDOWTITLE = { "Final project / Solar System -- Satoru Yamamoto" };
+const char *WINDOWTITLE = { "Solar System -- Satoru Yamamoto" };
 const char *GLUITITLE   = { "User Interface Window" };
 
 // what the glui package defines as true and false:

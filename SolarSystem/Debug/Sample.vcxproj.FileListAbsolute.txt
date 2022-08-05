@@ -1,3 +1,5 @@
 C:\MJB\CS550\SampleFreeGlut2019\Debug\Sample.exe
 C:\Users\satoru\Desktop\cs450\finalproject\Debug\Sample.exe
 C:\Users\satoru\Desktop\cs450\finalproject\Debug\Sample.pdb
+C:\cs450\Computer-Graphics\SolarSystem\Debug\Sample.exe
+C:\cs450\Computer-Graphics\SolarSystem\Debug\Sample.pdb
