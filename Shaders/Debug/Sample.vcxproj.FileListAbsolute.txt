@@ -5,3 +5,5 @@ C:\Users\satoru\Desktop\cs450\project4\Debug\Sample.exe
 C:\Users\satoru\Desktop\cs450\project4\Debug\Sample.pdb
 C:\Users\satoru\Desktop\cs450\project5\Debug\Sample.exe
 C:\Users\satoru\Desktop\cs450\project5\Debug\Sample.pdb
+C:\cs450\Computer-Graphics\Shaders\Debug\Sample.exe
+C:\cs450\Computer-Graphics\Shaders\Debug\Sample.pdb

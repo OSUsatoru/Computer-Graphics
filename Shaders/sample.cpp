@@ -33,11 +33,11 @@
 //		6. The transformations to be reset
 //		7. The program to quit
 //
-//	Author:			Joe Graphics
+//	
 
 // title of these windows:
 
-const char* WINDOWTITLE = { "Project 5 -- Satoru Yamamoto" };
+const char* WINDOWTITLE = { "Satoru Yamamoto" };
 const char* GLUITITLE = { "User Interface Window" };
 
 // what the glui package defines as true and false:
@@ -636,7 +636,7 @@ Display()
 	glMatrixMode(GL_MODELVIEW);
 	glLoadIdentity();
 	glColor3f(1., 1., 1.);
-	DoRasterString(5., 5., 0., (char*)"Project5: Satoru Yamamoto");
+	DoRasterString(5., 5., 0., (char*)"Satoru Yamamoto");
 
 	// swap the double-buffered framebuffers:
 
@@ -1023,13 +1023,14 @@ InitLists()
 
 
 	// create the axes:
-
+	/*
 	AxesList = glGenLists(1);
 	glNewList(AxesList, GL_COMPILE);
 	glLineWidth(AXES_WIDTH);
 	Axes(1.5);
 	glLineWidth(1.);
 	glEndList();
+	*/
 }
 
 

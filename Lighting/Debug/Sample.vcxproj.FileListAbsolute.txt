@@ -3,3 +3,5 @@ C:\Users\satoru\Desktop\cs450\project3\Debug\Sample.exe
 C:\Users\satoru\Desktop\cs450\project3\Debug\Sample.pdb
 C:\Users\satoru\Desktop\cs450\project4\Debug\Sample.exe
 C:\Users\satoru\Desktop\cs450\project4\Debug\Sample.pdb
+C:\cs450\Computer-Graphics\Lighting\Debug\Sample.exe
+C:\cs450\Computer-Graphics\Lighting\Debug\Sample.pdb
