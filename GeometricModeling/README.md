@@ -1,5 +1,6 @@
 # Geometric Modeling
 Create an animated scene of Bézier curves.
+
 ![](../Gifs/project(6).gif)
 
 ## Instruction
