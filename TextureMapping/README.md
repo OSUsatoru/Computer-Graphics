@@ -1,5 +1,6 @@
 # Texture Mapping
 To map a texture (your choice) to an object (your choice) and then distort it in some way. What you do here is up to you, but make it more than trivial. But, whatever you do, make it so that you could not do the same thing with a texture transformation. That is, no rigid body rotates, scales, or translates. That is, the distortion must be different all over the object.
+
 ![](../Gifs/project(3).gif)
 
 ## Instruction

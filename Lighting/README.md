@@ -1,5 +1,6 @@
 # Lighting
 Create a 3D animated scene that demonstrates dynamic OpenGL lighting.
+
 ![](../Gifs/project(4).gif)
 
 ## Instruction
