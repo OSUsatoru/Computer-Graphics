@@ -1,6 +1,6 @@
 # Geometric Modeling
 Create an animated scene of Bézier curves.
-![](../Gifs/)
+![](../Gifs/project(6).gif)
 
 ## Instruction
 1. Create a scene of at least five 3D Bézier curves.

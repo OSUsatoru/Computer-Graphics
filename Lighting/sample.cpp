@@ -954,13 +954,14 @@ InitLists()
 
 
 	// create the axes:
-
+	/*
 	AxesList = glGenLists(1);
 	glNewList(AxesList, GL_COMPILE);
 	glLineWidth(AXES_WIDTH);
 	Axes(1.5);
 	glLineWidth(1.);
 	glEndList();
+	*/
 }
 
 

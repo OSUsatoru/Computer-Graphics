@@ -2,19 +2,19 @@
 C:\cs450\Computer-Graphics\Lighting\sample.cpp(498,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
 C:\cs450\Computer-Graphics\Lighting\sample.cpp(507,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
 C:\cs450\Computer-Graphics\Lighting\sample.cpp(510,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-C:\cs450\Computer-Graphics\Lighting\sample.cpp(1353,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\cs450\Computer-Graphics\Lighting\sample.cpp(1360,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\cs450\Computer-Graphics\Lighting\sample.cpp(1374,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\cs450\Computer-Graphics\Lighting\sample.cpp(1375,73): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\cs450\Computer-Graphics\Lighting\sample.cpp(1379,73): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\cs450\Computer-Graphics\Lighting\sample.cpp(1380,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\cs450\Computer-Graphics\Lighting\sample.cpp(1383,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\cs450\Computer-Graphics\Lighting\sample.cpp(1384,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\cs450\Computer-Graphics\Lighting\sample.cpp(1387,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\cs450\Computer-Graphics\Lighting\sample.cpp(1388,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\cs450\Computer-Graphics\Lighting\sample.cpp(1409,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\cs450\Computer-Graphics\Lighting\sample.cpp(1410,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\cs450\Computer-Graphics\Lighting\sample.cpp(1422,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\cs450\Computer-Graphics\Lighting\sample.cpp(1423,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\cs450\Computer-Graphics\Lighting\sample.cpp(1354,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\cs450\Computer-Graphics\Lighting\sample.cpp(1361,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\cs450\Computer-Graphics\Lighting\sample.cpp(1375,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\cs450\Computer-Graphics\Lighting\sample.cpp(1376,73): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\cs450\Computer-Graphics\Lighting\sample.cpp(1380,73): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\cs450\Computer-Graphics\Lighting\sample.cpp(1381,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\cs450\Computer-Graphics\Lighting\sample.cpp(1384,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\cs450\Computer-Graphics\Lighting\sample.cpp(1385,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\cs450\Computer-Graphics\Lighting\sample.cpp(1388,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\cs450\Computer-Graphics\Lighting\sample.cpp(1389,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\cs450\Computer-Graphics\Lighting\sample.cpp(1410,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\cs450\Computer-Graphics\Lighting\sample.cpp(1411,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\cs450\Computer-Graphics\Lighting\sample.cpp(1423,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\cs450\Computer-Graphics\Lighting\sample.cpp(1424,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
 sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
   Sample.vcxproj -> C:\cs450\Computer-Graphics\Lighting\Debug\Sample.exe

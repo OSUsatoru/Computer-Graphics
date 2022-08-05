@@ -1,6 +1,6 @@
 # Lighting
 Create a 3D animated scene that demonstrates dynamic OpenGL lighting.
-![](../Gifs/)
+![](../Gifs/project(4).gif)
 
 ## Instruction
 1. Create a 3D scene consisting of at least 3 objects and at least 3 light sources:

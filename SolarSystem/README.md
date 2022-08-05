@@ -1,6 +1,6 @@
 # Solar System
 
-![](../Gifs/)
+![](../Gifs/project(7).gif)
 
 ## Instruction
 1. If you scale everything accurately, you will see nothing on the screen. Space really is mostly empty space.
