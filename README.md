@@ -24,3 +24,35 @@ Repository for learning Computer Graphics in C++. Each file includes description
 * GLM
 * Shaders (Vertex and Fragment)
 * A brief look into the future -- Vulkan
+
+# Gif Animations
+
+
+<details>
+  <summary>Draw Something</summary>
+  <img src="./Gifs/project(1).gif">
+</details>
+<details>
+  <summary>Animate Helicopter</summary>
+  <img src="./Gifs/project(2).gif">
+</details>
+<details>
+  <summary>Texture Mapping</summary>
+  <img src="./Gifs/project(3).gif">
+</details>
+<details>
+  <summary>Lighting</summary>
+  <img src="./Gifs/project(4).gif">
+</details>
+<details>
+  <summary>Shaders</summary>
+  <img src="./Gifs/project(5).gif">
+</details>
+<details>
+  <summary>Geometric Modeling</summary>
+  <img src="./Gifs/project(6).gif">
+</details>
+<details>
+  <summary>Solar System</summary>
+  <img src="./Gifs/project(7).gif">
+</details>
